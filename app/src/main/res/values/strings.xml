@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tomato</string>
+    <string name="tomato">tomato</string>
+    <string name="green">100% Green Deliveries</string>
+    <string name="carbon">Carbon and plastic Neutral in India</string>
+    <string name="claim" >India #1 Food Delivery and Dining App</string>
+    <string name="log">Log in or sign up</string>
+    <string name="phone">Enter Phone Number</string>
+    <string name="btntxt">Continue</string>
+    <string name="term">By continuing, you agree to our Terms of Services Privacy Policy  Content Policy</string>
+    <string name="batala_amritsar_road">Batala - Amritsar Road</string>
+    <string name="sohian_khurd_india">sohian Khurd, India</string>
+    <string name="whats_on_your_mind">WHATs ON YOUR MIND?</string>
+    <!--Dishes-->
+    <string name="momos">momos</string>
+    <string name="paneer">Paneer</string>
+    <string name="noodles">Noodles</string>
+    <string name="burger">  Burger</string>
+    <string name="rolls">Rolls</string>
+    <string name="biryani">Biryani</string>
+
+    <string name="thali">Thali</string>
+    <string name="sandwich">Sandwich</string>
+    <string name="pizza">Pizza</string>
+    <string name="paratha">Paratha</string>
+    <string name="north">N.Indian</string>
+    <string name="chicken">Chicken</string>
+    <string name="dosa">Dosa</string>
+    <string name="cake">Cake</string>
+    <string name="all_nearest_restaurants">ALL NEAREST RESTAURANTS</string>
+    <string name="abc_vaishno_bhojan_bhandar">ABC Vaishno Bhojan Bhandar, Amritsar-11</string>
+    <string name="location">Location</string>
+    <string name="forgot_password">Forgot Password, Please Click me</string>
+    <string name="food">Food</string>
+    <string name="abcd">abcd</string>
+    <string name="goore_da_dhaba">Goore Da Dhaba, Amritsar-12</string>
+    <string name="mashoor_dhaba">Mashoor Dhaba, Amritsar-13</string>
+</resources>
