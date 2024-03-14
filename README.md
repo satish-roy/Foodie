@@ -15,4 +15,4 @@
 
 <h3>Long ScreenShoot</h3>
 ![Screenshot_2024-03-08-11-57-10-29 1](https://github.com/satish-roy/Foodie/assets/66728078/0001d2a3-e407-4b73-97cd-943179375e00)
-<h3><i>Have a great day</i></h4>
+<h4><i>Have a great day</i></h4>
